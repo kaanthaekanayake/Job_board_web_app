@@ -16,7 +16,7 @@ export default function Navbar() {
               </span>
             </Link>
             <div className="hidden md:ml-10 md:flex md:space-x-8">
-              <Link href="#" className="inline-flex items-center px-1 pt-1 text-sm font-medium text-gray-900 hover:text-purple-600 transition-colors">
+              <Link href="/jobs" className="inline-flex items-center px-1 pt-1 text-sm font-medium text-gray-900 hover:text-purple-600 transition-colors">
                 Find Jobs
               </Link>
               <Link href="#" className="inline-flex items-center px-1 pt-1 text-sm font-medium text-gray-500 hover:text-purple-600 transition-colors">
